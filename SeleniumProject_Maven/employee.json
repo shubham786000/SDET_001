@@ -1,0 +1,14 @@
+{
+	"firstName":"Sam",
+	"lastName":"Mishra",
+	"address":[
+	{
+		"street":"abc",
+		"city":"kanpur"
+	},
+	{	
+		"street":"xyz",
+		"city":"lucknow"
+	}
+	]
+}

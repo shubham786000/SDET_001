@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30518" started-at="2021-09-07T23:21:42 IST" finished-at="2021-09-07T23:22:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30518" started-at="2021-09-07T23:21:42 IST" finished-at="2021-09-07T23:22:12 IST">
+      <class name="practice.DeleatContactFromOrganization1">
+        <test-method status="PASS" signature="handlingDynamicWebtable()[pri:0, instance:practice.DeleatContactFromOrganization1@462d5aee]" name="handlingDynamicWebtable" duration-ms="30413" started-at="2021-09-07T23:21:42 IST" finished-at="2021-09-07T23:22:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingDynamicWebtable -->
+      </class> <!-- practice.DeleatContactFromOrganization1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
